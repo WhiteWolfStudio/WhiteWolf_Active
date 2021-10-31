@@ -21,7 +21,6 @@ ww_a.F( this.gameObject ); // GameObject.SetActive( False );
 <img title="a title" alt="Alt text" src="photo.png">
 
 <br />
-<br />
 
 ``` csharp
 
